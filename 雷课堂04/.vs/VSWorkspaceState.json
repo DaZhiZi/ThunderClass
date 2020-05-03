@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\1-socket-server",
+    "\\1-socket-server\\src",
+    "\\2-socket-client",
+    "\\2-socket-client\\src"
+  ],
+  "SelectedNode": "\\1-socket-server\\src\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
