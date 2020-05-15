@@ -4,8 +4,10 @@
     "\\1-socket-server",
     "\\1-socket-server\\src",
     "\\2-socket-client",
-    "\\2-socket-client\\src"
+    "\\2-socket-client\\src",
+    "\\作业四",
+    "\\作业四\\win1"
   ],
-  "SelectedNode": "\\1-socket-server\\src\\main.cpp",
+  "SelectedNode": "\\作业四\\win1\\win4.cpp",
   "PreviewInSolutionExplorer": false
 }
